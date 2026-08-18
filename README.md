@@ -10,15 +10,34 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+multi-agent+LLM+systems;Turning+research+papers+into+production+code;Final-year+CS+(AI%2FML)+%7C+Class+of+2027" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+multi-agent+LLM+systems;Applying+for+AI%2FML+Master's+programs+2027;Final-year+CS+(AI%2FML)+%7C+Class+of+2027" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
+## About Me
+
+I'm a final-year Computer Science (AI & ML) student in Hyderabad, India, graduating in 2027. I build things at the intersection of AI/ML engineering and content — currently deep in a multi-agent LLM capstone project, while also documenting the process of building in public.
+
+Outside of code, I create content as **[@rudhhh.avi](https://instagram.com/anirudhreddy_m)** — raw, relatable videos on building, learning, and life as a student engineer.
+
+<br/>
+
 ## Currently
 
-Building a **multi-agent LLM-based financial intelligence system** — quantitative analysis, sentiment signals, and adversarial evaluation feeding into a single conviction pipeline.
+Building a **multi-agent LLM-based financial intelligence system** — quantitative analysis, sentiment signals, and adversarial evaluation feeding into a single conviction pipeline. Also exploring AI/ML-focused Master's programs abroad for after graduation.
+
+<br/>
+
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/anirudh-beep/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudh-beep&repo=Portfolio&theme=radical&hide_border=true&cache_seconds=86400"/></a>
+<a href="https://github.com/anirudh-beep/reportcard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudh-beep&repo=reportcard&theme=radical&hide_border=true&cache_seconds=86400"/></a>
+
+</div>
 
 <br/>
 
