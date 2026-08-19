@@ -72,13 +72,10 @@
 ## 📌 Pinned Work
 
 **AI / ML**
-[Capstone: Multi-Agent Financial Intelligence System](https://github.com/anirudh-beep) · [RAG-based PDF QA System](https://github.com/anirudh-beep)
+[Capstone: Multi-Agent Financial Intelligence System](https://github.com/anirudh-beep) · [RAG-based PDF QA System](https://github.com/anirudh-beep/Pdf-rag)
 
 **Developer Tools & Apps**
-[Portfolio](https://github.com/anirudh-beep/Portfolio) · [reportcard](https://github.com/anirudh-beep/reportcard) · [FocusAI](https://github.com/anirudh-beep)
-
-**Web & Misc**
-[Image-Gallery-P-](https://github.com/anirudh-beep/Image-Gallery-P-) · [Calculator_using_HCS](https://github.com/anirudh-beep/Calculator_using_HCS) · [Music-player-p](https://github.com/anirudh-beep/Music-player-p) · [Jump-mania](https://github.com/anirudh-beep/Jump-mania)
+[Portfolio](https://github.com/anirudh-beep/Portfolio) · [FocusAI](https://github.com/anirudh-beep)
 
 <br/>
 
