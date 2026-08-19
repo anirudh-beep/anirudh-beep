@@ -34,7 +34,13 @@
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,js,html,css,git,github,figma&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square&logo=meta&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </div>
 
@@ -72,10 +78,13 @@
 ## 📌 Pinned Work
 
 **AI / ML**
-[Capstone: Multi-Agent Financial Intelligence System](https://github.com/anirudh-beep) · [RAG-based PDF QA System](https://github.com/anirudh-beep/Pdf-rag)
+[Capstone: Multi-Agent Financial Intelligence System](https://github.com/anirudh-beep) · [RAG-based PDF QA System](https://github.com/anirudh-beep)
 
 **Developer Tools & Apps**
-[Portfolio](https://github.com/anirudh-beep/Portfolio) · [FocusAI](https://github.com/anirudh-beep)
+[Portfolio](https://github.com/anirudh-beep/Portfolio) · [reportcard](https://github.com/anirudh-beep/reportcard) · [FocusAI](https://github.com/anirudh-beep)
+
+**Web & Misc**
+[Image-Gallery-P-](https://github.com/anirudh-beep/Image-Gallery-P-) · [Calculator_using_HCS](https://github.com/anirudh-beep/Calculator_using_HCS) · [Music-player-p](https://github.com/anirudh-beep/Music-player-p) · [Jump-mania](https://github.com/anirudh-beep/Jump-mania)
 
 <br/>
 
