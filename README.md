@@ -6,7 +6,7 @@
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI%2FML+%26+Full+Stack+Developer;From+India+%F0%9F%87%AE%F0%9F%87%B3;Building+LLM+Agents+and+Applications)](https://git.io/typing-svg)
   
-  <img src="https://komarev.com/ghpvc/?username= Anirudh &label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  
   
 </div>
 
